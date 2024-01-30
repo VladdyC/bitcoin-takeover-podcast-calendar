@@ -3,7 +3,7 @@ Here you will find all the episodes of the Bitcoin Takeover podcast, arranged by
 
 
 
-##January:
+January:
 
 4th of January, 2023: S12 E16 with Mike Jarmuz – https://bitcoin-takeover.com/s12-e16-talkin-bob-dylan-blues-with-mike-jarmuz/
 
@@ -17,20 +17,26 @@ Here you will find all the episodes of the Bitcoin Takeover podcast, arranged by
 
 11th of January, 2022: S10 Special with Chris DeRose – https://bitcoin-takeover.com/preview-btctkvr-podcast-season-10/
 
+12th of January, 2024: S15 E15 with Aaron van Wirdum –
+
 13th of January, 2020: S4 E5 with Bryan Aulds – https://bitcoin-takeover.com/s4-e5-bryan-aulds-on-the-billfodl-steel-plate-and-cold-storage-solutions/
 
 16th of January, 2022: S10 E4 with Juan Galt – https://bitcoin-takeover.com/preview-btctkvr-podcast-season-10/
 
 18th of January, 2020: S4 E6 with JW Weatherman – https://bitcoin-takeover.com/s4-e5-jw-weatherman-on-hardware-wallets-cold-storage-multisig/
 
+20th of January, 2024: S15 E16 with Paul Sztorc – 
+
 22nd of January, 2022: S10 E5 with Lucas Ontivero – https://bitcoin-takeover.com/preview-btctkvr-podcast-season-10/
 
 28th of January, 2023: S13 E1 with Eric Sirion & Obi Nwosu – https://bitcoin-takeover.com/s13-e1-eric-sirion-obi-nwosu-on-fedimint-fedi/
 
+30th of January, 2024: S15 E17 with Bastien and Baudoin of Satochip – 
 
 
 
-##February:
+
+February:
 
 1st of February, 2024: S15 E18 with Andrew Poelstra – 
 
